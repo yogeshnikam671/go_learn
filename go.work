@@ -1,0 +1,9 @@
+go 1.19
+
+use (
+	./example
+	./hello
+	./pointer_learn
+	./struct_learn
+	./type_stringer_error
+)
